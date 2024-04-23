@@ -2,8 +2,7 @@
 // Author: Khusel Avirmed
 // Last Update: 11/2/2023
 // Tasks: Cleaning Wave 3
-
-* Purpose: 
+//// Purpose: 
 
 // This Stata code is part of a project to analyze the effect of Zipline drones in Ghana. 
 // The code is responsible for data cleaning and preparation in two main modules: 
@@ -26,6 +25,7 @@ global zipline_data "..\`pwd'"
 global data_folder "$zipline_data\data"
 global do_folder "$zipline_data\do"
 global fig_folder "$zipline_data\fig"
+
 
 * Module 6, Part A
 use "$data_folder\raw\Wave 3\06a_insurance.dta", clear
