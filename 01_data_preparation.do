@@ -2,7 +2,7 @@
 // Author: Khusel Avirmed
 // Last Update: 11/2/2023
 // Tasks: Cleaning Wave 3
-//// Purpose: 
+**** Purpose: 
 
 // This Stata code is part of a project to analyze the effect of Zipline drones in Ghana. 
 // The code is responsible for data cleaning and preparation in two main modules: 
